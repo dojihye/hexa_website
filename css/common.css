@@ -28,3 +28,8 @@ container - fit center element
   height: auto;
   margin: auto;
 }
+
+/* Dot bottom */
+.dot-bottom{
+  border-bottom: 2px dotted #eee;
+}
